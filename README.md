@@ -1,7 +1,7 @@
 # Recipe Bot
 
 > [!WARNING]
-> Not currently deployed. (Was deployed on vercel.app)
+> Backend not currently deployed. (Was deployed on Heroku.com)
 
 Sometimes, I struggle to decide what to have for dinner.
 
