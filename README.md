@@ -1,5 +1,8 @@
 # Recipe Bot
 
+> [!WARNING]
+> Not currently deployed. (Was deployed on vercel.app)
+
 Sometimes, I struggle to decide what to have for dinner.
 
 Recipe Bot uses the uses the OpenAI API in conjunction with a database of my favourite weeknight recipes to help with meal planning.
